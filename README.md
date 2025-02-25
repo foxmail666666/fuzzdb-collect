@@ -28,7 +28,7 @@
 - https://github.com/google/oss-fuzz
 - http://blog.topsec.com.cn/ad_lab/alphafuzzer/
 - http://llvm.org/docs/LibFuzzer.html
-#### 子域名枚举扫描器或爆破工具
+#### 子域名枚举扫描器或爆破工具等
 - https://github.com/n4xh4ck5/N4xD0rk （利用搜索引擎来搜集子域名，可以使用西班牙语搜集）
 - https://github.com/jonluca/Anubis
 - https://github.com/lijiejie/subDomainsBrute (lijiejie开发的一款使用广泛的子域名爆破枚举工具)
